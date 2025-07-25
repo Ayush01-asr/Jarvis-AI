@@ -1,0 +1,11 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+opencv-python
+pywhatkit
+wikipedia
+psutil
+llama-cpp-python
+Pillow
+pyautogui
+vosk
